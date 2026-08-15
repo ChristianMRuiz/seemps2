@@ -37,7 +37,7 @@ class CrossStrategy:
 
     Parameters
     ----------
-    tol : float, default=1e-12
+    tol : float, default=1e-8
         Tolerance for the sampled error.
     num_samples : Natural, default=1024
         Number of function samples to evaluate the error.
